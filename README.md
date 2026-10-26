@@ -2,7 +2,7 @@
 
 A pinpoint map quiz and field guide to Australia's towns and natural features: cities, mountains, ranges, deserts, lakes, rivers, islands, reefs, coasts and parks.
 
-**Play:** https://jtrouern.github.io/Pinpoint-Australia/
+**Play:** https://jtrouern.github.io/PinPoint-Australia/
 
 ![QR code to play Pinpoint Australia](qr/pinpoint-australia-qr.png)
 
